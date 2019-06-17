@@ -2,7 +2,7 @@
 
 ##Commands##
 
->G: indent to the end of the line
+>G: indent to the end of the file
 
 
 ## Compound Commands##
