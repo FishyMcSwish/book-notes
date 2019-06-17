@@ -1,6 +1,6 @@
-##Insert Mode##
+# Insert Mode
 
-###Tips###
+## Tips
 
 - Use delete commands from insert mode without leaving Insert mode.  When you screw up a word, delete the whole word and retype it.  You will improve as a typist and it will become faster.
 - Switch back to Normal mode frequently.  Switching to Insert Normal mode lets you fire one Normal Mode command without leaving Insert mode.
@@ -12,7 +12,7 @@
 
 
 
-###Other things I learned###
+## Other things I learned
 
 - Here are some Insert mode commands for quick deletion. They work in the bash shell too (and IIRC they are also Emacs commands).
 

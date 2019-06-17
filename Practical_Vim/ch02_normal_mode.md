@@ -1,6 +1,6 @@
-#Normal Mode#
+# Normal Mode
 
-##Tips##
+## Tips
 
 - It's best to "rest with your brush off the page" in normal mode
 - Chunk your changes for to control the granularity of the undo and dot commands.  Often whatever counts as a "thought" is a good chunk size, e.g. a sentence or line of code.
@@ -10,7 +10,7 @@
 - Combine operators and motions 
 
 
-##Other things I learned##
+## Other things I learned
 
 - Moving around in Insert mode w/arrow keys makes a new chunk for the purposes of 'u' or '.'
 - when you use an operator, you briefly enter Operator Pending mode.  It waits for a motion, then returns to Normal mode and does the operation.
@@ -24,6 +24,6 @@
 | < | shift left |
 | = | autoindent | 
 
-##Noteworthy plugins mentioned##
+## Noteworthy plugins mentioned
 - Commentary is a plugin that provides a custom operator to comment lines in languages supported by Vim
 - vim-textobj-entire is a plugin that gives custom motions to work with the whole file

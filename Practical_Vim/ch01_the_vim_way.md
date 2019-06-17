@@ -1,11 +1,11 @@
-#NOTES FROM THE VIM WAY#
+# NOTES FROM THE VIM WAY
 
-##Commands##
+## Commands
 
 >G: indent to the end of the file
 
 
-## Compound Commands##
+## Compound Commands
 
 C = c$
 s = cl
@@ -16,7 +16,7 @@ o = A<CR>
 O = ko
 
 
-##Repeater Commands##
+## Repeater Commands
 
 / = search forward.  n = next, N = last
 ? = search backward.  n = next, N = last
@@ -25,13 +25,13 @@ qx{changes}q = do series of changes.  @x repeats
 (q and @ are doing register stuff, check out the help)
 
 
-##Search##
+## Search
 
 * = search for word under cursor
 :%s/target/replacement[/gc] = search/replace. g=global, c = confirm first.  g and c are optional.
 
 
-##General Notes##
+## General Notes
 
 this chapter is all about making stuff repeatable.
 so e.g., put pads around the '+'es in a line,
@@ -46,7 +46,7 @@ the ideal is:
 In the book, this is called "The Dot formula"
 
 
-##Other stuff I learned##
+## Other stuff I learned
 
 :edit <file> edits a file in this window
 <C-w>[Arrow] moves within windows in a buffer
