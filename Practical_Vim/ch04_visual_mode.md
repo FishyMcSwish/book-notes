@@ -19,11 +19,11 @@
 
 | Command | Effect |
 |---------|--------|
-| V       | enter linewise Visual mode |
-| v       | enter characterwise Visual mode |
-| <C-v>   | enter Visual-Block mode |
-| gv      | repeat the last visual selection |
-| o       | 'fix' the free end of the current visual selection, move to the other end, and free it |
+| `V`       | enter linewise Visual mode |
+| `v`       | enter characterwise Visual mode |
+| `<C-v>`   | enter Visual-Block mode |
+| `gv`      | repeat the last visual selection |
+| `o`       | 'fix' the free end of the current visual selection, move to the other end, and free it |
 
 
 

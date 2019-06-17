@@ -18,25 +18,25 @@
 
 | Command | Effect |
 |---------|--------|
-| <C-h> | backspace |
-| <C-w> | delete back one word|
-| <C-u> | Delete back to the start of the line | 
+| `<C-h>` | backspace |
+| `<C-w>` | delete back one word|
+| `<C-u>` | Delete back to the start of the line | 
 
 - Ways to switch to Normal mode
 
 | Command | Effect |
 |---------|--------|
-| <Esc> | Switch to Normal mode |
-| <C-[> | Switch to Normal mode |
-| <C-o> | Switch to Insert Normal mode |
+| `<Esc>` | Switch to Normal mode |
+| `<C-[>` | Switch to Normal mode |
+| `<C-o>` | Switch to Insert Normal mode |
 
 
 - Other commands I learned
 
 | Command | Effect |
 |---------|--------|
-| zz | Scroll current line to the middle of the screen |
-| <C-r>{register} | paste from register while in Insert mode |
+| `zz` | Scroll current line to the middle of the screen |
+| `<C-r>`{register} | paste from register while in Insert mode |
 
 
 
