@@ -16,6 +16,7 @@
 ## Other things I learned
 
 - Visual Mode commands
+
 | Command | Effect |
 |---------|--------|
 | V       | enter linewise Visual mode |
