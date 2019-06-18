@@ -48,6 +48,6 @@ In the book, this is called "The Dot formula"
 
 ## Other stuff I learned
 
-:edit <file> edits a file in this window
-<C-w>[Arrow] moves within windows in a buffer
+:edit '<file>' edits a file in this window
+'<C-w>'[Arrow] moves within windows in a buffer
 after f or F, ',' goes in the opposite direction
