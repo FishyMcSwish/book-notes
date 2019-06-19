@@ -18,17 +18,17 @@ O = ko
 
 ## Repeater Commands
 
-/ = search forward.  n = next, N = last
-? = search backward.  n = next, N = last
-:s/target/replacement = substitute in the line.  & repeats
-qx{changes}q = do series of changes.  @x repeats
+`/` = search forward.  n = next, N = last
+`?` = search backward.  n = next, N = last
+`:s/target/replacement` = substitute in the line.  & repeats
+`qx{changes}q` = do series of changes.  @x repeats
 (q and @ are doing register stuff, check out the help)
 
 
 ## Search
 
-* = search for word under cursor
-:%s/target/replacement[/gc] = search/replace. g=global, c = confirm first.  g and c are optional.
+`*` = search for word under cursor
+`:%s/target/replacement[/gc]` = search/replace. g=global, c = confirm first.  g and c are optional.
 
 
 ## General Notes
@@ -48,6 +48,6 @@ In the book, this is called "The Dot formula"
 
 ## Other stuff I learned
 
-:edit '<file>' edits a file in this window
-'<C-w>'[Arrow] moves within windows in a buffer
-after f or F, ',' goes in the opposite direction
+`:edit {file}` edits a file in this window
+`<C-w> { Arrow }`moves within windows in a buffer
+after `f` or `F`, ',' goes in the opposite direction
